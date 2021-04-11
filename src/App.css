@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.far {
+  font-size: 50px;
+  border-radius: 50%;
+}
+.xeEx {
+  background-image: linear-gradient(black, white, red, blue);
+}
+
+.card-img-top {
+  position: relative;
+}
+.classTest {
+  position: absolute;
+  top: 17%;
+  left: 21%;
+}
+.modal-content {
+  width: 800px;
+}
